@@ -114,4 +114,4 @@ Breast-Cancer-Classification/
 ├── data.csv/                       # Dataset files (e.g., breast_cancer.csv)
 ├── models/                         # Saved model weights
 ├── notebooks/                      # Jupyter Notebooks
-│   └── Breast_Cancer_Classification.ipynb
+│   └── model.ipynb
