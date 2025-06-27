@@ -99,7 +99,7 @@ git clone https://github.com/utkarshsonpipre/BREAST-CANCER-MODEL-USING-NEURAL-NE
    ```
    *OR* run the Jupyter Notebook:
    ```bash
-   jupyter notebook Breast_Cancer_Classification.ipynb
+   jupyter notebook model.ipynb
    ```
 2. Evaluate the model:
    - Outputs include accuracy, confusion matrix, and ROC curve visualizations.
